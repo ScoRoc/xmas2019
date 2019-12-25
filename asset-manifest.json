@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/xmas2019/static/css/main.b4cf3864.chunk.css",
-    "main.js": "/xmas2019/static/js/main.cc0c2e48.chunk.js",
-    "main.js.map": "/xmas2019/static/js/main.cc0c2e48.chunk.js.map",
+    "main.js": "/xmas2019/static/js/main.5fbe5bce.chunk.js",
+    "main.js.map": "/xmas2019/static/js/main.5fbe5bce.chunk.js.map",
     "runtime-main.js": "/xmas2019/static/js/runtime-main.d35a6178.js",
     "runtime-main.js.map": "/xmas2019/static/js/runtime-main.d35a6178.js.map",
     "static/js/2.4c220dbe.chunk.js": "/xmas2019/static/js/2.4c220dbe.chunk.js",
     "static/js/2.4c220dbe.chunk.js.map": "/xmas2019/static/js/2.4c220dbe.chunk.js.map",
     "index.html": "/xmas2019/index.html",
-    "precache-manifest.e022bd07894839e55074c5d9612c0dcb.js": "/xmas2019/precache-manifest.e022bd07894839e55074c5d9612c0dcb.js",
+    "precache-manifest.17158d2fb65aca9d86b8ab1dd28d9c8e.js": "/xmas2019/precache-manifest.17158d2fb65aca9d86b8ab1dd28d9c8e.js",
     "service-worker.js": "/xmas2019/service-worker.js",
     "static/css/main.b4cf3864.chunk.css.map": "/xmas2019/static/css/main.b4cf3864.chunk.css.map",
     "static/js/2.4c220dbe.chunk.js.LICENSE": "/xmas2019/static/js/2.4c220dbe.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d35a6178.js",
     "static/js/2.4c220dbe.chunk.js",
     "static/css/main.b4cf3864.chunk.css",
-    "static/js/main.cc0c2e48.chunk.js"
+    "static/js/main.5fbe5bce.chunk.js"
   ]
 }
